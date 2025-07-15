@@ -1,2 +1,2 @@
-# NestJS Projects
+# nestjs-projects
 Projects for NestJS
